@@ -1009,3 +1009,24 @@ branch 'main' set up to track 'origin/main'.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   431  100    87  100   344    744   2942 --:--:-- --:--:-- --:--:--  3715
+[main 3b092f3] profile updated
+ Committer: EC2 Default User <ec2-user@ip-172-31-12-241.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+)
+To https://github.com/karthikeya0800//Naukri-Everyday
+   962b3a6..3b092f3  main -> main
+branch 'main' set up to track 'origin/main'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   432  100    87  100   345    705   2797 --:--:-- --:--:-- --:--:--  3512
